@@ -1,0 +1,6 @@
+{
+  "name": "CampusFlow AI",
+  "description": "Autonomous AI-powered campus event resource management and approval agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
